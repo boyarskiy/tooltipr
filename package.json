@@ -1,0 +1,25 @@
+{
+  "name": "tooltipr",
+  "version": "0.1.0",
+  "description": "Simplest JavaScript Tootip",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyarskiy/tooltipr.git"
+  },
+  "keywords": [
+    "tooltip"
+  ],
+  "bugs": {
+    "url": "https://github.com/boyarskiy/tooltipr/issues"
+  },
+  "homepage": "https://github.com/boyarskiy/tooltipr#readme",
+  "author": "Yevhen Boyarskiy <gekabrs@gmail.com>",
+  "license": "MIT"
+}
