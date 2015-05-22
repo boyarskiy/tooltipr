@@ -10,19 +10,19 @@ $ npm install --save tooltipr
 
 ## Usage
 
-1. Require tooltip after installation
+Require tooltip after installation
 
 ```js
 var tooltipr = require("tooltipr");
 ```
 
-2. Add ```data-tooltip = "hello world"``` to your element
+Add ```data-tooltip = "hello world"``` to your element
 
 ```html
 <div class="elem" data-tooltip="hello world">Tooltip</div>
 ```
 
-3. Create
+Create tooltip
 
 ```js
 var tooltip = tooltipr();
@@ -33,7 +33,7 @@ elem.onmouseover = function(e) {
 }
 ```
 
-4. Remove
+Remove tooltip
 
 ```js
 elem.onmouseout = function(e) {
@@ -41,7 +41,7 @@ elem.onmouseout = function(e) {
 }
 ```
 
-5. Add styles
+Add styles
 
 ```css
 .tooltip {
