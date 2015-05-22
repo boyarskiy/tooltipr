@@ -1,7 +1,7 @@
 {
   "name": "tooltipr",
-  "version": "0.1.0",
-  "description": "Simplest JavaScript Tootip",
+  "version": "0.1.1",
+  "description": "Simplest JavaScript Tooltip",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
