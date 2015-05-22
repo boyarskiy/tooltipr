@@ -16,7 +16,7 @@ $ npm install --save tooltipr
 var tooltipr = require("tooltipr");
 ```
 
-2. Add data-tooltip = "hello world" to your element
+2. Add ```data-tooltip = "hello world"``` to your element
 
 ```html
 <div class="elem" data-tooltip="hello world">Tooltip</div>
