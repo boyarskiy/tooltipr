@@ -48,3 +48,7 @@ Add styles
 	position: fixed;
 }
 ```
+
+## License
+
+MIT
