@@ -21,5 +21,6 @@
   },
   "homepage": "https://github.com/boyarskiy/tooltipr#readme",
   "author": "Yevhen Boyarskiy <gekabrs@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
