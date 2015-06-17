@@ -1,6 +1,6 @@
 # Tooltipr
 
-Simplest JavaScript tooltips.
+> Simplest JavaScript tooltips
 
 ## Instal
 
