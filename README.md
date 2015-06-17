@@ -1,6 +1,6 @@
 # Tooltipr
 
-Simplest JavaScript module for creating tooltips.
+Simplest JavaScript tooltips.
 
 ## Instal
 
@@ -28,16 +28,16 @@ Create tooltip
 var tooltip = tooltipr();
 var elem = document.querySelector('.elem');
 
-elem.onmouseover = function(e) {
-    tooltip.create(e);
+elem.onmouseover = function() {
+    tooltip.create();
 }
 ```
 
 Remove tooltip
 
 ```js
-elem.onmouseout = function(e) {
-    tooltip.remove(e);
+elem.onmouseout = function() {
+    tooltip.remove();
 }
 ```
 
