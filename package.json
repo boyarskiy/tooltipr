@@ -1,14 +1,8 @@
 {
   "name": "tooltipr",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simplest JavaScript Tooltip",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "devDependencies": {
-    "mocha": "^2.2.4"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/boyarskiy/tooltipr.git"
